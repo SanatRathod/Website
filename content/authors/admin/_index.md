@@ -59,7 +59,7 @@ education:
     summary: |
       At Stevens, I am pursuing my Masters in Industrial/ Engineering Management with a certification on Logistics & Supply Chain Management 
       GPA: 3.9/4.0     
-       Courses included:
+      Courses included:
       - Project MAnagement
       - Logistics & Supply Chain Management
       - Healthcare Data & Advanced Analytics
@@ -73,22 +73,21 @@ education:
     summary: |
       In my bachelors, I have learned from fundamental to advanced concepts of Electrical Engineering
       GPA: 3.7/4.0
-
       Courses included:
       - Advanced Power Systems
       - Signal Processing
-      - Electromagentism
+      - Electromagnetism
   - area: Diploma in Electrical Engineering 
     institution: K J Somaiya Polytechnic
     date_start: 2014-05-17
     date_end: 2017-05-17
     summary: |
       GPA: 3.4/4.0
-      
       Courses included:
       - Microelectronics
       - Renewable Energy Resources
       - Transformers and Alternators
+
 work:
   - position: Graduate Student Assistant (Office of Registrar)
     company_name: Stevens Institute of Technology
@@ -99,8 +98,8 @@ work:
     summary: |
       Description:
       - Provided guidance & direction to students who need assistance regarding course registration.
-      -  Streamlined administrative processes by scanning and digitizing 1,000+ documents monthly; improved retrieval times for physical files, allowing the office to respond to student inquiries 20% quicker.
-      -  Assisted with the orders of transcripts & diplomas for 500+ students and alumni.
+      - Streamlined administrative processes by scanning and digitizing 1,000+ documents monthly; improved retrieval times for physical files, allowing the office to respond to student inquiries 20% quicker.
+      - Assisted with the orders of transcripts & diplomas for 500+ students and alumni.
   - position: Senior Product Data Analyst 
     company_name: eClerx
     company_url: 'https://eclerx.com/'
@@ -108,11 +107,11 @@ work:
     date_start: 2022-03-01
     date_end: 2023-07-01
     summary: |
-      Description: 𝐁𝐥𝐚𝐜𝐤𝐇𝐚𝐰𝐤 | 𝐖𝐄𝐒𝐂𝐎 (𝐔𝐒𝐀)
+      Description: BlackHawk | WESCO (USA)
       - Analysed search queries and customer behaviour to identify patterns and preferences and integrated these insights into Data analysis, using Microsoft Excel, SQL & Python.
-      - Collaborated with cross-functional teams, including marketing, product management, finance to ensure the data is aligned with overall business strategies.
-      - Trained and managed a team of analyst for the project, to ensure smooth completion of the project, by conducting daily meetings.
-      - Researched competitor websites, assessed user experience and filtering capabilities, and utilized popularly identified attributes to develop facets for different product categories, and further developing a Taxonomy for the products.
+      - Collaborated with cross-functional teams, including marketing, product management, and finance to ensure the data is aligned with overall business strategies.
+      - Trained and managed a team of analysts for the project, to ensure smooth completion by conducting daily meetings.
+      - Researched competitor websites, assessed user experience and filtering capabilities, and utilized popularly identified attributes to develop facets for different product categories, and further developed a Taxonomy for the products.
       - Created project schedules using Microsoft Projects, to track project development and improve resource allocation.
       - Conducted testing, gathered user feedback, and iteratively improved the facet creation and filtering system.
   - position: Product Data Analyst (Electrical Branch)
@@ -122,9 +121,9 @@ work:
     date_start: 2020-11-10
     date_end: 2022-02-28
     summary: |
-      Description: 𝐇𝐨𝐧𝐞𝐲𝐰𝐞𝐥𝐥 (𝐔𝐒𝐀)
+      Description: Honeywell (USA)
       - Data cleaning, enrichment, processing, reconciliation through research and using tools like SQL and Excel.
-      - Performing audits and consolidation post data refinement, using advance Excel techniques.
+      - Performing audits and consolidation post data refinement, using advanced Excel techniques.
       - Risk identification and escalation, timely escalation of outstanding issues to clients. Suggested and worked with the tech team to create a macro for product data error identification using an error repository.
       - Worked on pilot projects and ad-hoc activities involving metadata for customers, applying my knowledge and insights to promote the adoption and successful implementation of new procedures and technologies.
   - position: Project Engineering Intern
@@ -137,8 +136,9 @@ work:
       Description:
       - Meticulous planning and implementation of a variety of methodologies used for a Thermo-electric Generator.
       - Implemented data gathering strategies to collect relevant information from multiple sources, resulting in a 20% improvement in data accuracy for decision-making processes.
-      - Made wiring diagrams using AutoCad Electrical & ran simulations in Matlab and utilized analytical techniques to calculate and apply theoretical models into practice.
-      - Helped creating dashboards using Microsoft Power Bi and made reports on Microsoft Excel.
+      - Created wiring diagrams using AutoCad Electrical & ran simulations in Matlab, utilizing analytical techniques to calculate and apply theoretical models into practice.
+      - Helped create dashboards using Microsoft Power BI and made reports on Microsoft Excel.
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -152,17 +152,15 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
- #     
- #     
       - name: SQL
         description: ''
         percent: 40
         icon: circle-stack
-        - name: Supply Chain 
+      - name: Supply Chain 
         description: ''
         percent: 80
         icon: chart-bar
-        - name: Power Bi
+      - name: Power Bi
         description: ''
         percent: 70
         icon: chart-bar
@@ -179,7 +177,6 @@ skills:
         percent: 100
         icon: Football
 
-
 languages:
   - name: English
     percent: 100
@@ -188,14 +185,10 @@ languages:
   - name: Hindi
     percent: 100
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Awards
+# Add/remove as many awards below as you like.
+# Only `title`, `awarder`, and `date` are required.
+# Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: 'Study, Analysis and Development of Graphene based efficient Thermo-Electric Generator.'
     url: https://www.barc.gov.in/
@@ -208,4 +201,4 @@ awards:
 
 ## About Me
 
-As a detail-oriented and results-driven Electrical Engineer and a Product Data Analyst with 2+ years of experience in an MNC in the IT sector, and research experience as a Project Intern for a year, in one of the most prominent research facility in India, Bhabha Atomic Research Centre, I have a proven track record of delivering successful outcomes by effectively managing inter-project dependencies and risks. With a strong background in Data Analysis and Engineering, I am skilled at monitoring and escalating issues requiring multiple teams' efforts to resolve, reducing resolution time.
+As a detail-oriented and results-driven Electrical Engineer and a Product Data Analyst with 2+ years of experience in an M
